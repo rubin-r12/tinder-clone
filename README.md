@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tinder-clone
+![tinder](https://i.ibb.co/xJM7QWf/collage.png)
+As of now,the following features has been added:
+* Swipe left/right.
+* Dm section over the top right corner to head over to the chats.
+* On reaching the chats section, the data is fetched directly from the firestore displaying their name, message and timestamp.
+* You can text a message in the personal chat in real time without the page getting refreshed every time you send a message.
+* Upon clicking a particular chat , a dummy conversation appears with Mark Zuckerberg :P Well, that needs some work.
+> The buttons at the bottom of the home page are yet to be assigned values but you can still checkout the app [here.](https://tinder-clone-4a496.web.app/)
+
 
 ## Available Scripts
 
