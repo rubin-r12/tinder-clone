@@ -6,10 +6,28 @@ function Chats() {
   return (
     <div className="chats">
       <Chat
-        name="Mark"
-        message="Yo whats up"
+        name="Sabrina"
+        message="hey you!"
         timestamp="40 seconds ago"
-        profilePic="https://image.cnbcfm.com/api/v1/image/104410446-GettyImages-669889288.jpg?v=1529474846&w=1400&h=950"
+        profilePic="https://pm1.narvii.com/6572/090953029189116002a1cef5c1b8672959528035_hq.jpg"
+      />
+      <Chat
+        name="Dakota"
+        message="hey, can't wait to see you!"
+        timestamp="1 minute ago"
+        profilePic="https://pbs.twimg.com/media/CaFhxafUsAAylES.jpg"
+      />
+      <Chat
+        name="Emma"
+        message="hey,See you in 5!"
+        timestamp="2 minutes ago"
+        profilePic="https://images.fullhdwallpaper.net/wp-content/uploads/2018/02/cute-smile-pics-of-Emma-Stone.jpg"
+      />
+      <Chat
+        name="Paz"
+        message="Wanna get some Coffee?!"
+        timestamp="3 minutes ago"
+        profilePic="https://1.bp.blogspot.com/-A-CkdSDX8I0/XWlD2HLUCxI/AAAAAAAADMs/7I_5Ud4-zMYk0xpFj3cp9amkIC2Z5qA9QCLcBGAs/s1600/Paz%2BVega.png"
       />
     </div>
   );
