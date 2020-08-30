@@ -6,6 +6,10 @@
   height: 70px;
   border-bottom: 1px solid #fafafa;
 }
+a {
+  text-decoration: none;
+  color: inherit;
+}
 .chat__details {
   flex: 1;
 }
