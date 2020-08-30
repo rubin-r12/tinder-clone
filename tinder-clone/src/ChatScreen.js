@@ -40,8 +40,8 @@ function ChatScreen() {
           </div>
         )
       )}
-      <div className="chatScreen__input">
-        <form>
+      <div>
+        <form className="chatScreen__input">
           <input
             className="chatScreen__inputField"
             placeholder="Type a message..."
